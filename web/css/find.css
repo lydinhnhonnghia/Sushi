@@ -1,0 +1,30 @@
+.item a{
+    text-decoration: underline;
+    color:black;
+}
+.item a:hover{
+    color: darkslategray;
+
+}
+
+.item span{
+    float:left;
+    width: 20%;
+}
+.find ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.find li{
+    float: left;
+    width: 49%;
+    margin-left: 2%;
+}
+
+.find li:first-child{
+    margin-left: 0px;
+}
+.find img{
+    width: 100%;
+}

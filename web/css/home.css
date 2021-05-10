@@ -1,0 +1,17 @@
+.intro .content .img{
+    width: 49%;
+    margin-right: 2%;
+    float: left;
+}
+.intro-title{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.intro-title a{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    
+}
+

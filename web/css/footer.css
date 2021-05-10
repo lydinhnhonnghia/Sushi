@@ -1,0 +1,18 @@
+.footer-wrapper{
+/*    display:flex;*/
+    margin: 0 20px;
+}
+.footer-content{ 
+/*    margin: 0 20px;*/
+    border-top: 1px lightgrey solid;
+    width: 100%;
+    padding: 27px 0 10px 0;
+}
+.footer-info{
+    margin-bottom: 30px;
+    font-size: 13px;
+}
+.footer-info a{
+    color: black;
+
+}
